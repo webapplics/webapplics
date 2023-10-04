@@ -1,10 +1,9 @@
-- 👋 Hi, I’m Shafique Ahmad
-- 🎓 Diploma in Information Technology from Peshawar Tech. board, June 2005
-- 👀 I’m interested in data science, Laravel, MERN Stack
-- 🌱 I’m currently learning NodeJS, specifically for intensive data processing, as well as upgrading to Laravel 9.
-- 💞️ I’m looking to collaborate in the field of data science
-- 💬 Ask me about [here](https://github.com/TeachingProgrammingInUrdu)
+- 👋 Hi, This is WebApplics
+- 🎓 
+- 👀 We are experts in data science, Python, PHP/MySQL, WordPress, Databases, and other web development tools
+- 💞️ I’m looking to collaborate in above mentioned field
+- 💬 Reach me on my personal page [here](https://github.com/shafiq-ahmad)
 - 📫 How to reach me: 
-  - [LinkedIn Profile](https://www.linkedin.com/in/shafique-ahmad-b0865361)
-  - [Instagram Profile](https://www.instagram.com/shafiq.steve/)
+  - [LinkedIn page](https://www.linkedin.com/company/webapplics/)
+  - [Instagram Profile](https://www.instagram.com/webapplics/)
 
